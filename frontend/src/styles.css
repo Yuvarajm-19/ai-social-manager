@@ -1,0 +1,62 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #0f172a;
+  color: white;
+}
+
+.container {
+  max-width: 800px;
+  margin: auto;
+  padding: 40px;
+}
+
+.card {
+  background: #1e293b;
+  padding: 20px;
+  margin-bottom: 20px;
+  border-radius: 10px;
+}
+
+.post-text {
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+
+.hashtags span {
+  margin-right: 8px;
+  color: #38bdf8;
+}
+
+.cta {
+  font-weight: bold;
+  margin-top: 10px;
+}
+
+.image {
+  width: 100%;
+  margin-top: 15px;
+  border-radius: 8px;
+}
+
+.actions {
+  margin-top: 15px;
+}
+
+button {
+  padding: 10px 15px;
+  margin-right: 10px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.approve {
+  background: #16a34a;
+  color: white;
+}
+
+.reject {
+  background: #dc2626;
+  color: white;
+}
